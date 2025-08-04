@@ -15,10 +15,3 @@ for (var i = 1; i <= lastDay; i++) {
 
 
 
-/** Problem 06 :  Current Salary ( Challenge Problem ) */
-var experience = 3;
-var startingSalary = 15000;
-//write your code here
-
-var currentSalary = startingSalary * Math.pow(1.05, experience);
-console.log(currentSalary.toFixed(2));
