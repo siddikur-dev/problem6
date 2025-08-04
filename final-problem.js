@@ -1,8 +1,4 @@
-/** Problem -01 ( Divide the Asset ) */
-var area = 2060;
-//write your code here
-var areaDivide = area / 2;
-console.log(areaDivide);
+
 
 /** Problem -02 ( Cycle or Laptop ) */
 var money = 10000;
